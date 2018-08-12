@@ -27,7 +27,7 @@ Please cite the following paper if you find this repository useful.
 ```latex
 @inproceedings{xu2018predcnn,
   title={PredCNN: Predictive Learning with Cascade Convolutions.},
-  author={Xu, Ziru and Wang, Yunbo and Long, Mingsheng and Wang, Jianmin and KLiss, MOE},
+  author={Xu, Ziru and Wang, Yunbo and Long, Mingsheng and Wang, Jianmin},
   booktitle={IJCAI},
   pages={2940--2947},
   year={2018}
