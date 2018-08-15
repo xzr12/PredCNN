@@ -8,7 +8,7 @@ Required python libraries: tensorflow (>=1.0) + opencv + numpy.
 Tested in ubuntu/centOS + nvidia titan X (Pascal) with cuda (>=8.0) and cudnn (>=5.0).
 
 ## Datasets
-We conduct experiments on one video dataset, [Moving Mnist](https://1drv.ms/f/s!AuK5cwCfU3__fGzXjcOlzTQw158), and two crowd flow dataset, [TaxiBJ and BikeNYC](https://github.com/lucktroy/DeepST/tree/master/data).
+We conduct experiments on one video dataset, [Moving Mnist](https://github.com/xzr12/PredCNN/tree/master/data/moving-mnist-example), and two crowd flow dataset, [TaxiBJ and BikeNYC](https://github.com/lucktroy/DeepST/tree/master/data).
 For other video format datasets, please extract frames from original video clips and move them to the `data/` folder.
 
 ## Training
