@@ -23,7 +23,7 @@ To train on your own dataset, have a look at the `InputHandle` classes in the `d
 At inference, the generated future frames will be saved in the `--results` folder.
 
 ## Citation
-Please cite the following paper if you find this repository useful.
+If you use this code for your research, please consider citing:
 ```latex
 @inproceedings{xu2018predcnn,
   title={PredCNN: Predictive Learning with Cascade Convolutions.},
